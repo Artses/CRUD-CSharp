@@ -1,0 +1,172 @@
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\AppExemplo.exe.config
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\AppExemplo.exe
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\AppExemplo.pdb
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\BouncyCastle.Crypto.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Hash.xxHash.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\MySql.Data.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Buffers.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.IO.Pipelines.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Memory.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Numerics.Vectors.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\ZstdSharp.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\BouncyCastle.Crypto.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.pdb
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Hash.xxHash.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\MySql.Data.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Buffers.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.IO.Pipelines.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Memory.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Numerics.Vectors.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.AssemblyReference.cache
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.SuggestedBindingRedirects.cache
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.Form1.resources
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.Properties.Resources.resources
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.GenerateResource.cache
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.CoreCompileInputs.cache
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.CopyComplete
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.exe
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\IntegracaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.pdb
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\AppExemplo.exe.config
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\AppExemplo.exe
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\AppExemplo.pdb
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\BouncyCastle.Crypto.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\K4os.Hash.xxHash.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\MySql.Data.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Buffers.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.IO.Pipelines.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Memory.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Numerics.Vectors.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\ZstdSharp.dll
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\BouncyCastle.Crypto.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.pdb
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\K4os.Hash.xxHash.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\MySql.Data.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Buffers.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.IO.Pipelines.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Memory.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Numerics.Vectors.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.AssemblyReference.cache
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.SuggestedBindingRedirects.cache
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\obj\Debug\AppExemplo.Form1.resources
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\obj\Debug\AppExemplo.Properties.Resources.resources
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.GenerateResource.cache
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.CoreCompileInputs.cache
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.CopyComplete
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\obj\Debug\AppExemplo.exe
+H:\_COTEMIG_2023\LogP\TerceiraEtapa\2D1\Para a Turma\AppExemplo\AppExemplo\obj\Debug\AppExemplo.pdb
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.AssemblyReference.cache
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.SuggestedBindingRedirects.cache
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplos.Form1.resources
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.Properties.Resources.resources
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.GenerateResource.cache
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.CoreCompileInputs.cache
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.exe
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.pdb
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\AppExemplo.exe.config
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\AppExemplo.exe
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\AppExemplo.pdb
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\BouncyCastle.Crypto.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Hash.xxHash.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\MySql.Data.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Buffers.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Configuration.ConfigurationManager.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.IO.Pipelines.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Memory.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Numerics.Vectors.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Threading.Tasks.Extensions.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\ZstdSharp.dll
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\BouncyCastle.Crypto.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.pdb
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Hash.xxHash.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\MySql.Data.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Buffers.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.IO.Pipelines.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Memory.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Numerics.Vectors.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Threading.Tasks.Extensions.xml
+H:\LogP\TerceiraEtapa\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.CopyComplete
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\AppExemplo.exe.config
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\AppExemplo.exe
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\AppExemplo.pdb
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\MySql.Data.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Buffers.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.IO.Pipelines.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Memory.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\ZstdSharp.dll
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.pdb
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Google.Protobuf.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\MySql.Data.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Buffers.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.IO.Pipelines.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Memory.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.AssemblyReference.cache
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.SuggestedBindingRedirects.cache
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplos.Form1.resources
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.Properties.Resources.resources
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.GenerateResource.cache
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.CoreCompileInputs.cache
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.csproj.CopyComplete
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.exe
+C:\Users\kiler\Downloads\arquivos_01-12-23_01h29\ProjetoConexaoBD\AppExemplo\AppExemplo\obj\Debug\AppExemplo.pdb
