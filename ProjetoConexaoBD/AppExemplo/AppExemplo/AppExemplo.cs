@@ -16,7 +16,7 @@ namespace AppExemplo
         {
             try
             {
-                string conexao = "Persist security info = false; server = localhost; database = BdExemplo; user = root; pwd=Lego-1-Lego;";
+                string conexao = "Persist security info = false; server = localhost; database = BdExemplo; user = root; pwd=;";
                 conn = new MySqlConnection(conexao);
                 conn.Open();
             }
